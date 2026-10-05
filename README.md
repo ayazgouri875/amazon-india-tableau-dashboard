@@ -53,7 +53,7 @@ An executive-level interactive business intelligence dashboard analyzing Amazon 
 ├── data/
 │   └── Amazon Sales Data India.xlsx              # Underlying source dataset
 ├── assets/
-│   └── dashboard_preview.png                     # High-resolution dashboard screenshot
+│   └── amazon_india_dashboard_preview.png                     # High-resolution dashboard screenshot
 └── README.md                                     # Project documentation
 ```
 
