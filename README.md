@@ -17,7 +17,7 @@ An executive-level interactive business intelligence dashboard analyzing Amazon 
 
 ## 📊 Dashboard Preview
 
-![Amazon India Sales Executive Dashboard](assets/dashboard_preview.png)
+![Amazon India Sales Executive Dashboard](assets/amazon_india_dashboard_preview.png)
 
 ---
 
