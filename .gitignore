@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+.localized
+
+# Tableau temporary & lock files
+.~*.twbr
+*.tmp
